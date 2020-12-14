@@ -1,0 +1,7 @@
+# Pytest related
+pytest
+pytest-cov
+pytest-socket
+
+# Code formatter
+black
